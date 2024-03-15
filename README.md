@@ -8,3 +8,6 @@ Electoral Bond was a mode of funding to the political parties in India. The sche
 
 Supreme court ordered SBI and ECI to release Electoral Bond data as soon as they released,
 i am trying to establish any relation possible between lender and provider of donation.
+# Insight
+From the initial dataset released by SBI we can gain some insight as which company donated how much and which political party encashed how much, there are few more insight....
+![Alt text](Resource/overall_pie_chart.png)
