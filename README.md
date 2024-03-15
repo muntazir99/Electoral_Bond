@@ -11,3 +11,5 @@ i am trying to establish any relation possible between lender and provider of do
 # Insight
 From the initial dataset released by SBI we can gain some insight as which company donated how much and which political party encashed how much, there are few more insight....
 ![Alt text](Resource/overall_pie_chart.png)
+
+from above chart we can clearly see donation of ruling party, whereas some state party got more donation then oldest national party, and out of 26 party only 6 party bagged more then 91% of donation.
